@@ -11,7 +11,7 @@ export const ProfileProvider = ({ children }) => {
       name: "Rohit Kumar",
       photo: myPic, // Replace with your photo URL if available
       description:
-        "Rohit Kumar is a fresh graduate from Chandigarh University with a solid foundation in web development. He specializes in creating responsive web applications using HTML, CSS, JavaScript, and React.jsand also has basic knowledge of backend technologies like Node.js, Express.js, and MongoDB.",
+        "Rohit Kumar is a fresh graduate from Chandigarh University with a solid foundation in web development. He specializes in creating responsive web applications using HTML, CSS, JavaScript, and React.js and also has basic knowledge of backend technologies like Node.js, Express.js, and MongoDB.",
       address: "Una, Himachal Pradesh, India",
       email: "rk142003mark@gmail.com", // Replace with your email if needed
       phone: "+91 7876713227", // Replace with your phone number if you'd like
@@ -55,7 +55,7 @@ export const ProfileProvider = ({ children }) => {
       photo:
         "https://easydrawingguides.com/wp-content/uploads/2023/07/how-to-draw-spider-mans-face-featured-image-1200.png",
       description:
-        "Spider-Man is a superhero with extraordinary abilities, including wall-crawling, superhuman strength, agility, and a 'spider-sense' that alerts him to danger. He patrols the streets of New York City, fighting crime and protecting its citizens from villains.",
+        "Spider Man is a superhero with extraordinary abilities, including wall-crawling, superhuman strength, agility, and a 'spider-sense' that alerts him to danger. He patrols the streets of New York City, fighting crime and protecting its citizens from villains.",
       address: "Swinging across New York City",
       email: "spiderman@webslinger.net",
       phone: "Unavailable",
